@@ -7,4 +7,4 @@ That's where the tasty magic of open sauce comes in. We're a meetup comprised of
 
 [Add](https://github.com/opensauceit/ideas/issues) an idea for something to work on as an issue and watch as a generous dollop of open source enthusiasm makes it real.
 
-![Logo](https://raw.githubusercontent.com/opensauceit/ideas/master/logo.svg)
+![Logo](http://opensauce.it/images/logo.svg)
