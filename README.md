@@ -7,8 +7,6 @@ That's where the tasty magic of open sauce comes in. We're a meetup comprised of
 
 [Add](https://github.com/opensauceit/ideas/issues) an idea for something to work on as an issue and watch as a generous dollop of open source enthusiasm makes it real.
 
-<div style='text-align: center'>
-
-<img src=http://opensauce.it/images/logo.svg >
-
+<div style="text-align: center">
+  <img src=http://opensauce.it/images/logo.svg >
 </div>
